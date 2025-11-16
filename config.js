@@ -85,3 +85,4 @@ module.exports = {
   BOT_LANG: process.env.BOT_LANG || 'english',
   YT_COOKIE: process.env.YT_COOKIE,
 }
++91 86539 80298 . this number is permanent delete for WhatsApp 
